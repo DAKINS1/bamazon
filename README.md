@@ -24,16 +24,16 @@ The user is then prompted if they would like to continue making purchases.
 MANAGER VIEW:
 The user has a list of options to choose from.
 
-View Products for Sale allows the user to view the current inventory of items for sale.
+VIEW PRODUCTS FOR SALE allows the user to view the current inventory of items for sale.
 
 [![Manager_View_Products.gif](https://s26.postimg.org/l53he82kp/Manager_View_Products.gif)](https://postimg.org/image/9sqvwftvp/)
 
-View Low Inventory option shows the user items that have fewer than 10 units available.
-Add to Inventory option allows the user to add to inventory by item id number and entering qty.
+VIEW LOW INVENTORY option shows the user items that have fewer than 10 units available.
+ADD TO INVENTORY option allows the user to add to inventory by item id number and entering qty.
 
 [![Manager_Low_Add_Products.gif](https://s26.postimg.org/ssqdwj18p/Manager_Low_Add_Products.gif)](https://postimg.org/image/jky5ftu6d/)
 
-Add New Product option allows the user to enter a new item which is then added into the inventory database.
+ADD NEW PRODUCT option allows the user to enter a new item which is then added into the inventory database.
 
 [![Manager_New_item.gif](https://s26.postimg.org/fsen03eo9/Manager_New_item.gif)](https://postimg.org/image/atr4lkav9/)
 
