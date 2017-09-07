@@ -1,21 +1,16 @@
 # bamazon
 BAMAZON
-Simple command line based storefront with Customer and Manager options using:
-Node.js
-npm Inquirer package
-npm mysql package
-npm Cli-table2 package
-mySQL Database
+ is a simple command line based storefront with Customer and Manager options using:
+Node.js, npm Inquirer package, npm mysql package, npm Cli-table2 package, and mySQL Database
 
 
-MySQL Database Setup
-A MySQL database is needed for this application. 
+MySQL Database Setup Needed.
 MySQL Workbench was used to create the bamazon.sql database file (included).
 
 Clone or Download repository onto your local computer.
 CD with your terminal into the folder.
-In terminal type in: Node myConnect.js
-User is prompted to choose CUSTOMER, MANAGER, or EXIT.
+In terminal type in: Node myConnect.js.  
+User is then prompted to choose CUSTOMER, MANAGER, or EXIT.
 
 CUSTOMER VIEW:
 The user is shown the current available inventory: 
