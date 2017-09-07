@@ -1,0 +1,17 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "main": "myConnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
